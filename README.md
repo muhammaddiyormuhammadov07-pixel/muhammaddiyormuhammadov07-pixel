@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salom, men Islomjon
+# Salom, men Muhammadov Muhammaddiyor 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzN4ZzN4ZzN4ZzN4ZzN4ZzN4ZzN4ZzN4ZzN4ZzN4ZzN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12bjI7xA5S2LSM/giphy.gif" width="250" />
 
